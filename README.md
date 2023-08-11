@@ -17,9 +17,4 @@
 <a href="https://fb.com/Ahmedtam2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedxreda0" height="30" width="40" /></a>
 </p>
 
-</p><br><br>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Reda-Dev&show_icons=true&locale=en&layout=compact" alt="Ahmed-Reda-Dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Reda-Dev&" alt="Ahmed-Reda-Dev" /></p>
