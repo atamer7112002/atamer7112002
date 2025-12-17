@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning FLUTTER Development
+- 🌱 I’m currently learning Flutter Development
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/atamer7112002?tab=repositories)
 
