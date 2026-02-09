@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning Flutter Development
+- 🔭 I’m currently working as Mobile Developer
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/atamer7112002?tab=repositories)
 
