@@ -10,25 +10,29 @@
 
 ---
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td valign="top" width="70%">
-      <ul>
-        <li>🔭 I’m currently working as <b>Mobile Developer</b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/atamer7112002?tab=repositories">Projects</a></li>
-        <li>💬 Ask me about <b>Dart, Flutter</b></li>
+    <td width="15%"></td> 
+    
+    <td valign="top" width="55%">
+      <br/>
+      <ul style="list-style: none;">
+        <li>🔭 I’m currently working as <b>Mobile Developer</b></li><br/>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/atamer7112002?tab=repositories">Projects</a></li><br/>
+        <li>💬 Ask me about <b>Dart, Flutter</b></li><br/>
         <li>📫 How to reach me: <b>a.tamer7112002@gmail.com</b></li>
       </ul>
     </td>
-    <td valign="center" align="center">
-      <img src="https://github.com/atamer7112002/atamer7112002/blob/main/profile-img.png?raw=true" width="150px">
+    
+    <td valign="center" align="left">
+      <img src="https://github.com/atamer7112002/atamer7112002/blob/main/profile-img.png?raw=true" width="160px">
     </td>
   </tr>
 </table>
 
 ---
 
-<h3>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/a7medtamer7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
@@ -38,7 +42,7 @@
 
 ---
 
-<h3>Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></td>
