@@ -12,16 +12,14 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="70%">
-      <br>
-      <br>
-      <ul>
-        <li>🔭 I’m currently working as <b>Mobile Developer</b></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/atamer7112002?tab=repositories">Projects</a></li>
-        <li>💬 Ask me about <b>Dart, Flutter</b></li>
-        <li>📫 How to reach me: <b>a.tamer7112002@gmail.com</b></li>
-      </ul>
-    </td>
+<td valign="top" width="70%">
+  <div style="height: 10px;"></div> <ul>
+    <li>🔭 I’m currently working as <b>Mobile Developer</b></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/atamer7112002?tab=repositories">Projects</a></li>
+    <li>💬 Ask me about <b>Dart, Flutter</b></li>
+    <li>📫 How to reach me: <b>a.tamer7112002@gmail.com</b></li>
+  </ul>
+</td>
     <td valign="center" align="center">
       <img src="https://github.com/atamer7112002/atamer7112002/blob/main/profile-img.png?raw=true" width="150px">
     </td>
