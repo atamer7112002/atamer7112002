@@ -12,7 +12,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="70%" style="padding-top: 20px;">
       <ul>
         <li>🔭 I’m currently working as <b>Mobile Developer</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/atamer7112002?tab=repositories">Projects</a></li>
