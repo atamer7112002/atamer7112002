@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/a7med_tamer7_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 ---
 
