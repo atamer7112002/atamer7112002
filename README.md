@@ -54,7 +54,7 @@ scalable components.</br>
 </p>
 
 <p>
- <a href="https://apps.apple.com/eg/app/%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1453506308" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.ValuxApps.Masane3Online&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1453506308" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
