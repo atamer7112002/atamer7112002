@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atamer7112002&label=Profile%20views&color=0e75b6&style=flat" alt="atamer7112002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atamer7112002&base=2094&label=Profile%20views&color=0e75b6&style=flat" alt="atamer7112002" /> </p>
 
 - 🔭 I’m currently working as **Mobile Developer**
 
@@ -40,6 +40,43 @@ scalable components.</br>
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.runsoft.bay_to_stay" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/bay-to-stay/id6743452055" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Masane3 Online | مصانع أونلاين
+
+● Developed Masane3 Online, an integrated B2B & B2C industrial digital directory and e-commerce platform connecting factories, raw material suppliers, and clients.</br>
+● Implemented dual-role registration (Factory/Supplier & Customer), product listings, deal of the day promotions, and industrial job listings.</br>
+● Integrated Google Maps for business locations, real-time product browsing, and direct communication channels.</br>
+
+<p align="center">
+    <img src="Masane3Online/masane3_online.png" alt="Masane3 Online Previews" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+</p>
+
+<p>
+ <a href="https://apps.apple.com/eg/app/%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1453506308" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<h2> Samples from my random projects </h2>
+
+### FinTrackr
+
+A secure, intelligent financial management application designed to bridge the gap between mobile network SIM management and financial transactions. Built with **Flutter**, Clean Architecture, and BLoC pattern for predictable state management.
+
+● **Biometric Security & Authentication**: Secure wallet access using Fingerprint/Face ID with `local_auth` and session management.</br>
+● **Dual SIM Management**: Real-time signal strength monitoring, network health checks, and one-tap multi-SIM synchronization.</br>
+● **Smart SMS Sync**: Automatically detects and categorizes financial SMS alerts and synchronizes transactions in real time.</br>
+
+<p align="center">
+    <img src="FinTrackr/1.jpg" alt="Agent Login" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="FinTrackr/2.jpg" alt="SIM Management" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="FinTrackr/3.jpg" alt="SMS Sync Success" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="FinTrackr/4.jpg" alt="SIM Sync Success" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+</p>
+
+<p>
+ <a href="https://github.com/atamer7112002/FinTrackr" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p>
 
 <hr>
 
