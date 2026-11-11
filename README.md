@@ -23,6 +23,21 @@
 <h2> Samples from my Live projects </h2>
 
 
+### Centerly
+● Built an Arabic-first platform for independent tutoring teachers, with a Flutter app for teachers and a React dashboard for secretaries.<br>
+● Teachers can track groups, schedules, attendance, and collections while secretaries handle day-to-day data entry.<br>
+● Implemented monthly and per-session billing on a shared Supabase backend with tenant-scoped access.
+
+<p align="center">
+  <img src="Centerly/dashboard.png" alt="Centerly teacher dashboard" width="180" />
+  <img src="Centerly/groups.png" alt="Centerly group directory" width="180" />
+  <img src="Centerly/finance.png" alt="Centerly finance overview" width="180" />
+</p>
+
+<sub>Screens shown with sample data.</sub>
+
+[Teacher app source](https://github.com/Centerly-it/Centerly_mobile) · [Secretary web app](https://centerly-secretary.pages.dev/)
+
 ### Baytostay
 ● Led development of Baytostay, a production-ready rental platform on Play Store &
   App Store.</br>
