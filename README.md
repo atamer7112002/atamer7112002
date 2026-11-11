@@ -23,21 +23,6 @@
 <h2> Samples from my Live projects </h2>
 
 
-### Centerly
-● Built an Arabic-first platform for independent tutoring teachers, with a Flutter app for teachers and a React dashboard for secretaries.<br>
-● Teachers can track groups, schedules, attendance, and collections while secretaries handle day-to-day data entry.<br>
-● Implemented monthly and per-session billing on a shared Supabase backend with tenant-scoped access.
-
-<p align="center">
-  <img src="Centerly/dashboard.png" alt="Centerly teacher dashboard" width="180" />
-  <img src="Centerly/groups.png" alt="Centerly group directory" width="180" />
-  <img src="Centerly/finance.png" alt="Centerly finance overview" width="180" />
-</p>
-
-<sub>Screens shown with sample data.</sub>
-
-[Teacher app source](https://github.com/Centerly-it/Centerly_mobile) · [Secretary web app](https://centerly-secretary.pages.dev/)
-
 ### Baytostay
 ● Led development of Baytostay, a production-ready rental platform on Play Store &
   App Store.</br>
@@ -70,6 +55,24 @@ scalable components.</br>
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.ValuxApps.Masane3Online&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D9%85%D8%B5%D8%A7%D9%86%D8%B9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1453506308" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Centerly
+● Built an Arabic-first platform for independent tutoring teachers, with a Flutter app for teachers and a React dashboard for secretaries.<br>
+● Teachers can track groups, schedules, attendance, and collections while secretaries handle day-to-day data entry.<br>
+● Implemented monthly and per-session billing on a shared Supabase backend with tenant-scoped access.
+
+<p align="center">
+  <img src="Centerly/splash.jpg" alt="Centerly splash screen" width="180" />
+  <img src="Centerly/dashboard.png" alt="Centerly teacher dashboard" width="180" />
+  <img src="Centerly/groups.png" alt="Centerly group directory" width="180" />
+  <img src="Centerly/finance.png" alt="Centerly finance overview" width="180" />
+</p>
+
+<sub>Screens shown with sample data.</sub>
+
+[Teacher app source](https://github.com/Centerly-it/Centerly_mobile) · [Secretary web app](https://centerly-secretary.pages.dev/)
 
 <hr>
 
