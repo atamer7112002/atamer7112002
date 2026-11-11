@@ -100,4 +100,6 @@ A secure, intelligent financial management application designed to bridge the ga
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atamer7112002&show_icons=true&locale=en&layout=compact" alt="atamer7112002" /></p>
 
+**Contribution Goal: 1,500**
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atamer7112002&" alt="atamer7112002" /></p>
